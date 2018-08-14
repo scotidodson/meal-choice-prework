@@ -4,5 +4,6 @@
 puts "What kind of meal would you like?"
 
 def meal_choice(meal = "meat")
-  #{meal}
+  choice = #{meal}
+  choice
 end
