@@ -3,6 +3,6 @@
 
 puts "What kind of meal would you like?"
 
-def meal_choice(meal = meat)
-  puts #{meal}
+def meal_choice(meal = "meat")
+  #{meal}
 end
